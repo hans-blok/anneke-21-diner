@@ -1,0 +1,117 @@
+/* ============================================================
+   Scandinavisch Design — Nordic minimalism
+   Kleurenpalet: Nordic Blue, Ice White, Fjord Teal
+   ============================================================ */
+
+:root {
+  --nordic-blue:       #2B5C8A;
+  --nordic-blue-light: #4A7FA8;
+  --ice-white:         #F7F8FA;
+  --birch-gray:        #E8EAED;
+  --stone-gray:        #6B7280;
+  --forest-green:      #4A7C59;
+  --midnight:          #1C2B3A;
+}
+
+/* Basis achtergrond */
+.md-main {
+  background-color: var(--ice-white);
+}
+
+/* Header */
+.md-header {
+  background-color: var(--midnight) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+/* Navigatie tabs */
+.md-tabs {
+  background-color: var(--nordic-blue) !important;
+}
+
+/* Typografie */
+.md-typeset {
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: var(--midnight);
+}
+
+.md-typeset h1 {
+  font-weight: 600;
+  color: var(--midnight);
+  letter-spacing: -0.02em;
+  border-bottom: 2px solid var(--nordic-blue);
+  padding-bottom: 0.3em;
+  margin-bottom: 1.2em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  color: var(--nordic-blue);
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h3 {
+  font-weight: 500;
+  color: var(--midnight);
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--nordic-blue);
+}
+
+.md-typeset a:hover {
+  color: var(--forest-green);
+  text-decoration: underline;
+}
+
+/* Navigatie sidebar */
+.md-nav__link--active {
+  color: var(--nordic-blue) !important;
+  font-weight: 500;
+}
+
+/* Code */
+.md-typeset code {
+  background-color: var(--birch-gray);
+  color: var(--midnight);
+  border-radius: 3px;
+}
+
+.md-typeset pre > code {
+  background-color: var(--midnight);
+  color: #e8edf2;
+}
+
+/* Content breedte en witruimte */
+.md-content__inner {
+  max-width: 880px;
+  padding: 2rem 1.5rem;
+}
+
+/* Admonitions */
+.md-typeset .admonition {
+  border-left: 4px solid var(--nordic-blue);
+  border-radius: 0 4px 4px 0;
+}
+
+/* Tabellen */
+.md-typeset table:not([class]) th {
+  background-color: var(--midnight);
+  color: white;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--birch-gray);
+}
+
+/* Footer */
+.md-footer {
+  background-color: var(--midnight);
+}
+
+/* Search */
+.md-search__input {
+  border-radius: 2px;
+}
