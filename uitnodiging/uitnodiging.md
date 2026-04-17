@@ -4,7 +4,7 @@
 
 ---
 
-### 🌿 Scandinavian Summer 🌿
+### Scandinavian Summer 
 
 Je bent van harte uitgenodigd voor het 21-jaarsdiner van Anneke!
 

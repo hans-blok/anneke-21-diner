@@ -116,8 +116,11 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Dresscode: dresscode.md
-  - Nieuws: nieuws.md
+  - Route & Vervoer: route-en-vervoer.md
+  - Overnachten: overnachten.md
+  - Acts: acts.md
   - Allergieën: allergieen.md
+  - Nieuws: nieuws.md
   
 
 # ------------------------------------------------------------

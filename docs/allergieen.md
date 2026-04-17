@@ -1,10 +1,10 @@
-# 🥗 Allergieën & Dieetwensen
+# 🥗 Allergieën
 
 ## Help ons met de voorbereiding
 
 ---
 
-Om ervoor te zorgen dat iedereen kan genieten van het diner, willen we graag weten of je allergieën of dieetwensen hebt.
+Om ervoor te zorgen dat iedereen kan genieten van het diner, willen we graag weten of je allergieën hebt.
 
 ---
 
