@@ -40,6 +40,7 @@
 
 .md-tabs {
   background-color: var(--sage) !important;
+  --md-primary-fg-color: var(--sage) !important;
   box-shadow: none;
 }
 

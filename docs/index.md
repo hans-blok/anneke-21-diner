@@ -45,5 +45,12 @@ Denk aan lichte tinten, natuurlijke elementen en gezelligheid!
 
 <div class="rsvp-section">
   <p><strong>Graag bevestigen vóór 15 juni 2026</strong></p>
-  <p class="rsvp-date">We hopen je te zien! ✨</p>
+  <p class="rsvp-date">Vul het formulier in en laat weten of je erbij bent.</p>
+  <p style="margin-top: 1rem;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8dyXdwgWp8mLSqgznVnuYdv1wpG5c0gKqZJnmdVsggX2gSg/viewform"
+       target="_blank"
+       style="display:inline-block; background:white; color:#6B8C6E; padding:0.6rem 1.8rem; font-size:0.8rem; letter-spacing:0.12em; text-transform:uppercase; border:none; text-decoration:none; font-weight:500;">
+      Aanmelden
+    </a>
+  </p>
 </div>
