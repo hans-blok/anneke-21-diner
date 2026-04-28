@@ -1,33 +1,31 @@
-<div class="hero-container">
-  <img src="assets/foto-scandanavian.jpg" alt="Scandinavian Summer" class="hero-image">
-  <div class="hero-overlay">
-    <h1 class="hero-title">Anneke wordt 21!</h1>
-    <p class="hero-subtitle">🌿 Scandinavian Summer 🌿</p>
-  </div>
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="hero-full">
+  <img src="assets/foto-2.png" alt="Scandinavian Summer">
 </div>
 
-<div class="invitation-card" markdown>
-
-Je bent van harte uitgenodigd voor het **21-jaarsdiner** van Anneke!
-
-We vieren deze bijzondere mijlpaal in Scandinavische zomerstijl.  
-Denk aan lichte tinten, natuurlijke elementen en gezelligheid!
-
+<div class="hero-text-block">
+  <h1 class="hero-title">Anneke wordt 21!</h1>
+  <p class="hero-subtitle">Scandinavian Summer</p>
+  <p class="hero-intro">Je bent van harte uitgenodigd voor het <strong>21-jaarsdiner</strong> van Anneke!<br>
+  We vieren deze bijzondere mijlpaal in Scandinavische zomerstijl.<br>
+  Denk aan lichte tinten, natuurlijke elementen en gezelligheid!</p>
 </div>
 
 <div class="details-grid">
   <div class="detail-item">
-    <div class="icon">📅</div>
     <div class="label">Datum</div>
     <div class="value">Zaterdag 27 juni 2026</div>
   </div>
   <div class="detail-item">
-    <div class="icon">🕐</div>
     <div class="label">Tijd</div>
     <div class="value">Vanaf 17:00 uur</div>
   </div>
   <div class="detail-item">
-    <div class="icon">📍</div>
     <div class="label">Locatie</div>
     <div class="value">Langs de Rijn 5<br>Wijk bij Duurstede</div>
   </div>
@@ -35,7 +33,7 @@ Denk aan lichte tinten, natuurlijke elementen en gezelligheid!
 
 ---
 
-## 🌾 Wat kun je verwachten?
+## Wat kun je verwachten?
 
 - Een heerlijk diner in Scandinavische stijl
 - Gezellig samenzijn met familie en vrienden

@@ -1,4 +1,4 @@
-# 📰 Nieuws
+# Nieuws
 
 ## Updates over het feest
 
@@ -15,10 +15,10 @@
 
 Houd deze pagina in de gaten voor:
 
-- 🍽️ Menu-aankondigingen
-- 🎵 Entertainment updates  
-- 🚗 Parkeerinformatie
-- 🎁 Cadeau-ideeën
+- Menu-aankondigingen
+- Entertainment updates
+- Parkeerinformatie
+- Cadeau-ideeën
 
 ---
 

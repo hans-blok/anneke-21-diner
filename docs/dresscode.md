@@ -1,4 +1,4 @@
-# 👗 Dresscode
+# Dresscode
 
 ## Scandinavian Summer
 
@@ -8,21 +8,21 @@ Het thema van het feest is **Scandinavian Summer**. We nodigen je uit om je kled
 
 ---
 
-## 🎨 Kleurenpalet
+## Kleurenpalet
 
 Denk aan zachte, natuurlijke tinten:
 
 | Kleur | Voorbeelden |
 |-------|-------------|
-| 🤍 **Wit & crème** | Linnen, katoen |
-| 🩵 **Lichtblauw** | Pastelblauw, hemelsblauw |
-| 🌿 **Zacht groen** | Salie, mintgroen |
-| 🩷 **Blush roze** | Poederroze, oudroze |
-| 🤎 **Natuurtinten** | Beige, zand, camel |
+| **Wit & crème** | Linnen, katoen |
+| **Lichtblauw** | Pastelblauw, hemelsblauw |
+| **Zacht groen** | Salie, mintgroen |
+| **Blush roze** | Poederroze, oudroze |
+| **Natuurtinten** | Beige, zand, camel |
 
 ---
 
-## ✨ Stijlsuggesties
+## Stijlsuggesties
 
 ### Voor dames
 - Luchtige zomerjurken
@@ -38,7 +38,7 @@ Denk aan zachte, natuurlijke tinten:
 
 ---
 
-## 🌸 Tips
+## Tips
 
 !!! tip "Comfort"
     We zijn buiten aan de Rijn, dus kies comfortabele schoenen!
@@ -48,7 +48,7 @@ Denk aan zachte, natuurlijke tinten:
 
 ---
 
-## 🚫 Liever niet
+## Liever niet
 
 - Felle neonkleuren
 - Zwart (tenzij gecombineerd met lichte kleuren)
@@ -56,4 +56,4 @@ Denk aan zachte, natuurlijke tinten:
 
 ---
 
-*Bij twijfel: kies voor licht, luchtig en zomers!* 🌾
+*Bij twijfel: kies voor licht, luchtig en zomers!*

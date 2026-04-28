@@ -1,4 +1,4 @@
-# 🏨 Overnachten
+# Overnachten
 
 ## Hotels in de buurt
 

@@ -1,7 +1,6 @@
 # ============================================================
-# MkDocs Configuration — Mandarin Startup
-# Owner: Publicatie Steward
-# Doel: Publicatie van strategische documentatie
+# MkDocs Configuration — Feest voor Anneke's 21e Verjaardag
+# Doel: Publicatie informatie voor genodigden en organisatie
 # ============================================================
 
 # ------------------------------------------------------------
@@ -12,11 +11,6 @@ site_description: "Scandinavian Summer - 27 juni 2026"
 site_author: "Familie Blok"
 site_url: "https://hans-blok.github.io/anneke-21-diner/"
 
-# Optioneel: repository referentie
-# repo_name: "mandarin-startup"
-# repo_url: "https://github.com/username/mandarin-startup"
-# edit_uri: "edit/main/docs/"
-
 # ------------------------------------------------------------
 # 2. Documentatie Bron
 # ------------------------------------------------------------
@@ -25,7 +19,7 @@ site_dir: "site"
 
 # ------------------------------------------------------------
 # 3. Theme & Presentatie
-# Mandarin huisstijl met Material theme
+# Schone Scandinavische stijl, helder en uitnodigend
 # ------------------------------------------------------------
 theme:
   name: "material"
@@ -53,7 +47,7 @@ theme:
   favicon: "assets/foto-scandanavian.jpg"
 
 # ------------------------------------------------------------
-# 4. Custom Styling - Mandarin Stylesheet
+# 4. Custom Styling - 
 # Eigendom: Presentatie Architect
 # ------------------------------------------------------------
 extra_css:
@@ -121,6 +115,11 @@ nav:
   - Acts: acts.md
   - Allergieën: allergieen.md
   - Nieuws: nieuws.md
+  - Organisatie:
+    - Mensen: organisatie/mensen.md
+    - Tijd & Locatie: organisatie/tijd-locatie.md
+    - Gerechten & Drinken: organisatie/gerechten-en-drinken.md
+    - Benodigdheden: organisatie/benodigdheden.md
   
 
 # ------------------------------------------------------------

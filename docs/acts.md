@@ -1,4 +1,4 @@
-# 🎵 Acts & Entertainment
+# Acts & Entertainment
 
 ## Programma
 
@@ -27,4 +27,4 @@
 
 ---
 
-*Wordt vervolgd!* 🎉
+*Wordt vervolgd!*
