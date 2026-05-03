@@ -6,20 +6,22 @@
 
 Het thema van het feest is **Mid sommar**. We nodigen je uit om je kleding hierop af te stemmen!
 
+Denk aan **veel wit!**
+
 ---
 
 ## Kleurenpalet
 
 Denk aan de tinten van het feest:
 
-| Kleur | Code | Voorbeelden |
-|-------|------|-------------|
-| IJsblauw | `#BECACA` | Pastelblauw, zacht ijsblauw |
-| Warmgrijs | `#C9C5BD` | Linnen, gebroken wit |
-| Taupe | `#B3ABA0` | Zand, camel, licht bruin |
-| Lichtgrijs | `#E4E3DE` | Crème, off-white |
-| Middengrijs | `#C4C0B7` | Katoen grijs, steen |
-| Donkergrijs | `#75777A` | Antraciet, leisteen |
+| Kleur | Voorbeelden |
+|-------|-------------|
+| IJsblauw | Pastelblauw, zacht ijsblauw |
+| Warmgrijs | Linnen, gebroken wit |
+| Taupe  | Zand, camel, licht bruin |
+| Lichtgrijs  | Crème, off-white |
+| Middengrijs  | Katoen grijs, steen |
+| Donkergrijs  | Antraciet, leisteen |
 
 ---
 
