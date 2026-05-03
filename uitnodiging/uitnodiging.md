@@ -1,10 +1,10 @@
 # ✨ Uitnodiging ✨
 
-## Anneke's 21e Verjaardag
+## Anneke is 21
 
 ---
 
-### Scandinavian Summer 
+### Mid sommar
 
 Je bent van harte uitgenodigd voor het 21-jaarsdiner van Anneke!
 
@@ -18,7 +18,7 @@ Je bent van harte uitgenodigd voor het 21-jaarsdiner van Anneke!
 
 ---
 
-We vieren deze bijzondere mijlpaal in Scandinavische zomerstijl.
+We vieren deze bijzondere mijlpaal in Mid sommar-stijl.
 Denk aan lichte tinten, natuurlijke elementen en gezelligheid!
 
 ---

@@ -1,24 +1,25 @@
 # Dresscode
 
-## Scandinavian Summer
+## Mid sommar
 
 ---
 
-Het thema van het feest is **Scandinavian Summer**. We nodigen je uit om je kleding hierop af te stemmen!
+Het thema van het feest is **Mid sommar**. We nodigen je uit om je kleding hierop af te stemmen!
 
 ---
 
 ## Kleurenpalet
 
-Denk aan zachte, natuurlijke tinten:
+Denk aan de tinten van het feest:
 
-| Kleur | Voorbeelden |
-|-------|-------------|
-| **Wit & crème** | Linnen, katoen |
-| **Lichtblauw** | Pastelblauw, hemelsblauw |
-| **Zacht groen** | Salie, mintgroen |
-| **Blush roze** | Poederroze, oudroze |
-| **Natuurtinten** | Beige, zand, camel |
+| Kleur | Code | Voorbeelden |
+|-------|------|-------------|
+| IJsblauw | `#BECACA` | Pastelblauw, zacht ijsblauw |
+| Warmgrijs | `#C9C5BD` | Linnen, gebroken wit |
+| Taupe | `#B3ABA0` | Zand, camel, licht bruin |
+| Lichtgrijs | `#E4E3DE` | Crème, off-white |
+| Middengrijs | `#C4C0B7` | Katoen grijs, steen |
+| Donkergrijs | `#75777A` | Antraciet, leisteen |
 
 ---
 
@@ -40,11 +41,8 @@ Denk aan zachte, natuurlijke tinten:
 
 ## Tips
 
-!!! tip "Comfort"
-    We zijn buiten aan de Rijn, dus kies comfortabele schoenen!
-
 !!! tip "Weersafhankelijk"
-    Neem eventueel een licht vest of jasje mee voor de avond.
+    Neem eventueel een licht vest of jasje mee voor de avond. De locatie ligt aan het begin van de Kromme Rijn.
 
 ---
 

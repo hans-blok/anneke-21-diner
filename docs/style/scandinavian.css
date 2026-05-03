@@ -1,20 +1,20 @@
 /* ============================================================
    Scandinavisch Minimalistisch Design
-   Palet: warm wit, muted sage, Noords houtskool
+   Palet: Mid sommar kleuren uit kleuren codes.md
    Principes: lucht, dunne lijnen, geen schaduwen, lichte typografie
    ============================================================ */
 
 :root {
-  --birch:       #F9F8F5;   /* warm off-white achtergrond */
-  --linen:       #F1EDE8;   /* kaart achtergrond */
-  --fog:         #E8E5DF;   /* hover, subtiele vlakken */
-  --pebble:      #D4CFC7;   /* randen */
-  --stone:       #8A9290;   /* secundaire tekst */
-  --slate:       #3D4A45;   /* body tekst */
-  --charcoal:    #24302C;   /* koppen, header */
-  --sage:        #6B8C6E;   /* primaire accentkleur */
-  --sage-light:  #8FAF93;   /* hover, lichte accenten */
-  --nordic:      #607B96;   /* links, secundaire accent */
+  --birch:       #E4E3DE;   /* achtergrond */
+  --linen:       #C4C0B7;   /* kaart achtergrond / even tabelrijen */
+  --fog:         #C4C0B7;   /* hover, subtiele vlakken */
+  --pebble:      #C9C5BD;   /* randen */
+  --stone:       #75777A;   /* secundaire tekst */
+  --slate:       #222222;   /* body tekst */
+  --charcoal:    #75777A;   /* header, donkere vlakken */
+  --sage:        #BECACA;   /* primaire accentkleur */
+  --sage-light:  #C9C5BD;   /* hover, lichte accenten */
+  --nordic:      #BECACA;   /* links, secundaire accent */
 }
 
 /* ---- Basis ---- */
@@ -26,9 +26,9 @@
 /* ---- Header ---- */
 
 .md-header {
-  background-color: var(--charcoal) !important;
+  background-color: #75777A !important;
   box-shadow: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid #C4C0B7;
 }
 
 .md-header__title {
@@ -39,8 +39,8 @@
 /* ---- Navigatie tabs ---- */
 
 .md-tabs {
-  background-color: var(--sage) !important;
-  --md-primary-fg-color: var(--sage) !important;
+  background-color: #6B8C6E !important;
+  --md-primary-fg-color: #6B8C6E !important;
   box-shadow: none;
 }
 
@@ -141,6 +141,23 @@
   padding: 2.5rem 2rem;
 }
 
+/* ---- Benodigdheden: brede tabel zonder scroll ---- */
+
+.md-content__inner .md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+/* Verbreed de container voor pagina's met brede tabellen */
+@media screen and (min-width: 76.25em) {
+  .md-content {
+    max-width: none;
+  }
+  .md-content__inner {
+    max-width: 1600px;
+  }
+}
+
 /* ---- Scheidingslijn ---- */
 
 .md-typeset hr {
@@ -195,7 +212,7 @@
 
 .md-typeset pre > code {
   background-color: var(--charcoal);
-  color: #CBD5E0;
+  color: #E4E3DE;
 }
 
 /* ---- Footer ---- */
@@ -206,7 +223,7 @@
 }
 
 .md-footer-meta {
-  background-color: #1C2420;
+  background-color: #75777A;
 }
 
 /* ---- Search ---- */
@@ -238,14 +255,14 @@
 .hero-text-block {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  background-color: var(--birch);
+  background-color: #E4E3DE;
   text-align: center;
   padding: 3.5rem 2rem 3rem;
   margin-bottom: 3rem;
 }
 
 .hero-title {
-  color: var(--charcoal) !important;
+  color: #75777A !important;
   font-size: 2.6rem !important;
   font-weight: 300 !important;
   letter-spacing: 0.06em !important;
@@ -254,20 +271,20 @@
 }
 
 .hero-subtitle {
-  color: var(--stone) !important;
+  color: #75777A !important;
   font-size: 0.72rem !important;
   font-weight: 300 !important;
   letter-spacing: 0.3em !important;
   text-transform: uppercase !important;
   margin: 0 0 2rem 0 !important;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--pebble);
+  border-bottom: 1px solid #C9C5BD;
   display: inline-block;
   width: 40%;
 }
 
 .hero-intro {
-  color: var(--slate) !important;
+  color: #222222 !important;
   font-size: 1rem !important;
   line-height: 2 !important;
   font-weight: 300 !important;
@@ -310,7 +327,7 @@
 }
 
 .detail-item {
-  background: white;
+  background: #E4E3DE;
   padding: 2rem 1.5rem;
   text-align: center;
 }
@@ -323,7 +340,7 @@
 
 .detail-item .label {
   font-size: 0.65rem;
-  color: var(--stone);
+  color: #75777A;
   text-transform: uppercase;
   letter-spacing: 0.15em;
   margin-bottom: 0.4rem;
@@ -331,7 +348,7 @@
 
 .detail-item .value {
   font-size: 1rem;
-  color: var(--charcoal);
+  color: #222222;
   font-weight: 400;
   margin-top: 0.3rem;
   line-height: 1.5;
@@ -341,7 +358,7 @@
   text-align: center;
   margin: 2.5rem 0;
   padding: 2.5rem;
-  background: var(--sage);
+  background: #6B8C6E;
   color: white;
 }
 
@@ -354,8 +371,8 @@
 .theme-badge {
   display: inline-block;
   background: transparent;
-  color: var(--sage);
-  border: 1px solid var(--sage);
+  color: #75777A;
+  border: 1px solid #C9C5BD;
   padding: 0.4rem 1.2rem;
   font-size: 0.68rem;
   letter-spacing: 0.18em;
