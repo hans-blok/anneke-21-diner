@@ -14,29 +14,28 @@ Denk aan **veel wit en pastelkleuren!**
 
 Denk aan de tinten van het feest:
 
+Saliegroen  
+Eucalyptusgroen  
+Vergrijsd mint  
+Mosgroen pastel  
 
-Saliegroen
-Eucalyptusgroen
-Vergrijsd mint
-Mosgroen pastel
 
+Mistblauw  
+IJsblauw  
+Nordic blue  
+Vergrijsd denimblauw  
 
-Mistblauw
-IJsblauw
-Nordic blue
-Vergrijsd denimblauw
-
-Zandbeige
-Linnenwit
-Havermoutkleur
-Licht taupe
-Duifgrijs
-Warm crème
-
-Poederroze
-Bleek perzik
-Vergrijsd lavendel
-Soft terracotta
+Zandbeige  
+Linnenwit  
+Havermoutkleur  
+Licht taupe  
+Duifgrijs  
+Warm crème  
+ 
+Poederroze  
+Bleek perzik  
+Vergrijsd lavendel  
+Soft terracotta  
 
 ---
 
