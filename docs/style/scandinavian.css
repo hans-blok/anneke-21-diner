@@ -77,6 +77,10 @@
 
 /* ---- Sidebar ---- */
 
+.md-nav__source {
+  background-color: #6B8C6E !important;
+}
+
 .md-sidebar {
   background-color: var(--birch);
 }

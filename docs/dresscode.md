@@ -6,7 +6,7 @@
 
 Het thema van het feest is **Mid sommar**. We nodigen je uit om je kleding hierop af te stemmen!
 
-Denk aan **veel wit!**
+Denk aan **veel wit en pastelkleuren!**
 
 ---
 
