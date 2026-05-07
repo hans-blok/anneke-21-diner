@@ -4,7 +4,7 @@
 
 ---
 
-### Mid sommar
+### Scandi summer
 
 Je bent van harte uitgenodigd voor het 21-jaarsdiner van Anneke!
 
@@ -18,7 +18,7 @@ Je bent van harte uitgenodigd voor het 21-jaarsdiner van Anneke!
 
 ---
 
-We vieren deze bijzondere mijlpaal in Mid sommar-stijl.
+We vieren deze bijzondere mijlpaal in Scandi summer-stijl.
 Denk aan lichte tinten, natuurlijke elementen en gezelligheid!
 
 ---

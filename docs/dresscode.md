@@ -4,7 +4,7 @@
 
 ---
 
-Het thema van het feest is **Mid sommar**. We nodigen je uit om je kleding hierop af te stemmen!
+Het thema van het feest is **Scandi summer**. We nodigen je uit om je kleding hierop af te stemmen!
 
 Denk aan **veel wit en pastelkleuren!**
 
@@ -14,28 +14,27 @@ Denk aan **veel wit en pastelkleuren!**
 
 Denk aan de tinten van het feest:
 
-Saliegroen  
-Eucalyptusgroen  
-Vergrijsd mint  
-Mosgroen pastel  
+- Saliegroen  
+- Eucalyptusgroen  
+- Vergrijsd mint  
+- Mosgroen pastel  
 
 
-Mistblauw  
-IJsblauw  
-Nordic blue  
-Vergrijsd denimblauw  
+- Mistblauw  
+- IJsblauw  
+- Nordic blue  
+- Vergrijsd denimblauw  
 
-Zandbeige  
-Linnenwit  
-Havermoutkleur  
-Licht taupe  
-Duifgrijs  
-Warm crème  
+- Zandbeige  
+- Linnenwit  
+- Havermoutkleur  
+- Licht taupe  
+- Warm crème  
  
-Poederroze  
-Bleek perzik  
-Vergrijsd lavendel  
-Soft terracotta  
+- Poederroze  
+- Bleek perzik  
+- Vergrijsd lavendel  
+- Soft terracotta  
 
 ---
 
