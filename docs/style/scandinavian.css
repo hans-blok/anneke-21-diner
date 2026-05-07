@@ -259,14 +259,17 @@
   margin-top: -2.5rem;
   margin-bottom: 0;
   line-height: 0;
+  text-align: center;
+  background-color: var(--birch);
 }
 
 .hero-full img {
-  display: block !important;
-  width: 100% !important;
+  display: inline-block !important;
+  max-width: 100% !important;
   max-height: 80vh;
   object-fit: cover;
   object-position: center center;
+  margin: 0 auto;
 }
 
 .hero-text-block {

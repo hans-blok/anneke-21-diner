@@ -12,7 +12,7 @@ hide:
   <h1 class="hero-title">Anneke is 21!</h1>
   <p class="hero-subtitle">Mid sommar</p>
   <p class="hero-intro">Je bent van harte uitgenodigd voor het <strong>21-diner</strong> van Anneke!<br>
-  We vieren deze bijzondere mijlpaal in Mid sommar-stijl.<br>
+  We vieren deze bijzondere mijlpaal in <br>Mid sommar-stijl.<br>
   Denk aan lichte tinten, natuurlijke elementen en gezelligheid!</p>
 </div>
 
