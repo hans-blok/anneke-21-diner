@@ -38,8 +38,8 @@ theme:
     - search.highlight
   palette:
     scheme: default
-    primary: "green"
-    accent: "amber"
+    primary: "custom"
+    accent: "custom"
   font:
     text: "Inter"
     code: "JetBrains Mono"

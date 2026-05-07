@@ -15,6 +15,12 @@
   --sage:        #BECACA;   /* primaire accentkleur */
   --sage-light:  #C9C5BD;   /* hover, lichte accenten */
   --nordic:      #BECACA;   /* links, secundaire accent */
+  
+  /* Material overschrijvingen voor o.a. de telefoonweergave */
+  --md-primary-fg-color: #6B8C6E;
+  --md-primary-fg-color--light: #83A185;
+  --md-primary-fg-color--dark: #537555;
+  --md-accent-fg-color: #6B8C6E;
 }
 
 /* ---- Basis ---- */
