@@ -43,7 +43,6 @@ theme:
   font:
     text: "Inter"
     code: "JetBrains Mono"
-  logo: "assets/foto-scandanavian.jpg"
   favicon: "assets/foto-scandanavian.jpg"
 
 # ------------------------------------------------------------

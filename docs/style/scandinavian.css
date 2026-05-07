@@ -19,8 +19,10 @@
 
 /* ---- Basis ---- */
 
-.md-main {
-  background-color: var(--birch);
+.md-main,
+.md-content,
+.md-content__inner {
+  background-color: var(--birch) !important;
 }
 
 /* ---- Header ---- */
@@ -254,18 +256,17 @@
    ============================================================ */
 
 .hero-full {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  margin-top: -2rem;
+  margin-top: -2.5rem;
   margin-bottom: 0;
   line-height: 0;
 }
 
 .hero-full img {
-  display: block;
-  width: 60%;
-  height: auto;
-  margin: 0 auto;
+  display: block !important;
+  width: 100% !important;
+  max-height: 80vh;
+  object-fit: cover;
+  object-position: center center;
 }
 
 .hero-text-block {
