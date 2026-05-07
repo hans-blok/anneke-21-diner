@@ -15,12 +15,22 @@
   --sage:        #BECACA;   /* primaire accentkleur */
   --sage-light:  #C9C5BD;   /* hover, lichte accenten */
   --nordic:      #BECACA;   /* links, secundaire accent */
-  
-  /* Material overschrijvingen voor o.a. de telefoonweergave */
+}
+
+/* Material overschrijvingen voor o.a. de telefoonweergave */
+[data-md-color-primary="custom"] {
   --md-primary-fg-color: #6B8C6E;
-  --md-primary-fg-color--light: #83A185;
+  --md-primary-fg-color--light: #83a185;
   --md-primary-fg-color--dark: #537555;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #ffffff80;
+}
+
+[data-md-color-accent="custom"] {
   --md-accent-fg-color: #6B8C6E;
+  --md-accent-fg-color--transparent: #6B8C6E1a;
+  --md-accent-bg-color: #ffffff;
+  --md-accent-bg-color--light: #ffffff80;
 }
 
 /* ---- Basis ---- */
