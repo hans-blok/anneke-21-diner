@@ -14,14 +14,29 @@ Denk aan **veel wit en pastelkleuren!**
 
 Denk aan de tinten van het feest:
 
-| Kleur | Voorbeelden |
-|-------|-------------|
-| IJsblauw | Pastelblauw, zacht ijsblauw |
-| Warmgrijs | Linnen, gebroken wit |
-| Taupe  | Zand, camel, licht bruin |
-| Lichtgrijs  | Crème, off-white |
-| Middengrijs  | Katoen grijs, steen |
-| Donkergrijs  | Antraciet, leisteen |
+
+Saliegroen
+Eucalyptusgroen
+Vergrijsd mint
+Mosgroen pastel
+
+
+Mistblauw
+IJsblauw
+Nordic blue
+Vergrijsd denimblauw
+
+Zandbeige
+Linnenwit
+Havermoutkleur
+Licht taupe
+Duifgrijs
+Warm crème
+
+Poederroze
+Bleek perzik
+Vergrijsd lavendel
+Soft terracotta
 
 ---
 
