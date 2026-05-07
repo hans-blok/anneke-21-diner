@@ -1,6 +1,6 @@
 # Dresscode
 
-## Mid sommar
+## Scandi summer
 
 ---
 
