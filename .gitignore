@@ -27,6 +27,12 @@ executions/*.md
 # Lokale instellingen (niet delen)
 settings.json
 
+# ===================================
+# MkDocs gegenereerde output
+# ===================================
+site/
+site-org/
+
 # Tijdelijke bestanden en werkruimten
 temp/
 

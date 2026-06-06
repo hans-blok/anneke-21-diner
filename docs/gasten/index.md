@@ -44,3 +44,18 @@ hide:
     </a>
   </p>
 </div>
+
+---
+
+<div class="organisatie-section">
+  <h3>Organisatie</h3>
+  <ul>
+    <li><a href="organisatie/benodigdheden/">Benodigdheden</a></li>
+    <li><a href="organisatie/drinken/">Gerechten &amp; Drinken</a></li>
+    <li><a href="organisatie/bereiding/0-borrelhapjes/">Bereiding: Borrelhapjes</a></li>
+    <li><a href="organisatie/bereiding/1-gyoza-kokos-curry/">Bereiding: Gyoza Kokos-Curry</a></li>
+    <li><a href="organisatie/bereiding/2-mango-sgroppino/">Bereiding: Mango Sgroppino</a></li>
+    <li><a href="organisatie/bereiding/3-hoisin-aubergine met sojabonensalade/">Bereiding: Hoisin Aubergine</a></li>
+    <li><a href="organisatie/bereiding/4-trifle-white-wedding/">Bereiding: Trifle White Wedding</a></li>
+  </ul>
+</div>

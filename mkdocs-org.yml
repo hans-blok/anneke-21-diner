@@ -1,0 +1,98 @@
+# ============================================================
+# MkDocs Organisatie-configuratie — Feest Anneke 21e
+# Doel: Interne pagina's voor organisatie (niet publiek)
+# Bouwen: mkdocs build -f mkdocs-org.yml
+# ============================================================
+
+site_name: "Organisatie — 21-diner Anneke"
+site_description: "Interne organisatiepagina's — niet voor gasten"
+site_author: "Familie Blok"
+
+docs_dir: "docs/organisatie"
+site_dir: "site-org"
+
+theme:
+  name: "material"
+  language: "nl"
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    scheme: default
+    primary: "custom"
+    accent: "custom"
+  font:
+    text: "Inter"
+    code: "JetBrains Mono"
+  favicon: "assets/foto-2.png"
+
+extra_css:
+  - style/scandinavian.css
+
+extra_javascript: []
+
+plugins:
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  generator: false
+
+copyright: "Scandinavian Summer 🌿 27 juni 2026 — intern gebruik"
+
+nav:
+  - Overzicht: index.md
+  - Mensen: mensen.md
+  - Benodigdheden: benodigdheden.md
+  - Drank: drinken.md
+  - Boodschappen:
+    - Overzicht: boodschappen.md
+    - Ver van tevoren: boodschappen/0-ver-van-tevoren.md
+    - Drank (week 22 juni): boodschappen/drank.md
+    - Vrijdag 26 juni: boodschappen/2-26-juni.md
+    - Zaterdag 27 juni: boodschappen/3-27-juni.md
+  - Bereidingen:
+    - Borrelhapjes: bereiding/0-borrelhapjes.md
+    - Gyoza Kokos-Curry: bereiding/1-gyoza-kokos-curry.md
+    - Mango Sgroppino: bereiding/2-mango-sgroppino.md
+    - Hoisin Aubergine: "bereiding/3-hoisin-aubergine met sojabonensalade.md"
+    - Trifle White Wedding: bereiding/4-trifle-white-wedding.md

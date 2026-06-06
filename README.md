@@ -1,30 +1,47 @@
 # Anneke 21 Feest
 
-Deze website is gepubliceerd via MkDocs.
+## Voor gasten
+
+| | Lokaal (poort 8000) | GitHub Pages |
+|---|---|---|
+| Home | http://127.0.0.1:8000/anneke-21-diner/ | https://hans-blok.github.io/anneke-21-diner/ |
+| Dresscode | http://127.0.0.1:8000/anneke-21-diner/dresscode/ | https://hans-blok.github.io/anneke-21-diner/dresscode/ |
+| Route & Vervoer | http://127.0.0.1:8000/anneke-21-diner/route-en-vervoer/ | https://hans-blok.github.io/anneke-21-diner/route-en-vervoer/ |
+
+## Voor de organisatie
+
+Organisatiepagina's worden gebouwd naar `site-org/` via `mkdocs-org.yml`.  
+Live preview: `mkdocs serve -f mkdocs-org.yml --dev-addr 127.0.0.1:8001`
+
+| Pagina | Live preview (poort 8001) | Lokaal bestand |
+|---|---|---|
+| Overzicht | http://127.0.0.1:8001/ | site-org/index.html |
+| Mensen | http://127.0.0.1:8001/mensen/ | site-org/mensen/index.html |
+| Benodigdheden | http://127.0.0.1:8001/benodigdheden/ | site-org/benodigdheden/index.html |
+| Gerechten & Drinken | http://127.0.0.1:8001/drinken/ | site-org/drinken/index.html |
+| Bereiding: Borrelhapjes | http://127.0.0.1:8001/bereiding/0-borrelhapjes/ | site-org/bereiding/0-borrelhapjes/index.html |
+| Bereiding: Gyoza | http://127.0.0.1:8001/bereiding/1-gyoza-kokos-curry/ | site-org/bereiding/1-gyoza-kokos-curry/index.html |
+| Bereiding: Sgroppino | http://127.0.0.1:8001/bereiding/2-mango-sgroppino/ | site-org/bereiding/2-mango-sgroppino/index.html |
+| Bereiding: Aubergine | http://127.0.0.1:8001/bereiding/3-hoisin-aubergine%20met%20sojabonensalade/ | site-org/bereiding/3-hoisin-aubergine%20met%20sojabonensalade/index.html |
+| Bereiding: Trifle | http://127.0.0.1:8001/bereiding/4-trifle-white-wedding/ | site-org/bereiding/4-trifle-white-wedding/index.html |
 
 ## Lokaal draaien
 
-Start de server met:
-
 ```
+# Gastenpagina (live preview op poort 8000)
 mkdocs serve
+
+# Organisatie-site (live preview op poort 8001)
+mkdocs serve -f mkdocs-org.yml --dev-addr 127.0.0.1:8001
+
+# Organisatie-site alleen bouwen (geen live preview)
+mkdocs build -f mkdocs-org.yml
 ```
 
-Let op: de lokale server draait op het pad `/anneke-21-diner/` (afgeleid van de site_url in mkdocs.yml).
+## Deployen
 
-## Organisatie-pagina's (niet zichtbaar in het menu)
+```
+push.bat "commit message"
+```
 
-### Lokaal (mkdocs serve)
-
-- Home: http://127.0.0.1:8000/anneke-21-diner/
-- Benodigdheden: http://127.0.0.1:8000/anneke-21-diner/organisatie/benodigdheden/
-- Gerechten & Drinken: http://127.0.0.1:8000/anneke-21-diner/organisatie/gerechten-en-drinken/
-- Mensen: http://127.0.0.1:8000/anneke-21-diner/organisatie/mensen/
-- Tijd & Locatie: http://127.0.0.1:8000/anneke-21-diner/organisatie/tijd-locatie/
-
-### Productie (GitHub Pages)
-
-- Benodigdheden: https://hans-blok.github.io/anneke-21-diner/organisatie/benodigdheden/
-- Gerechten & Drinken: https://hans-blok.github.io/anneke-21-diner/organisatie/gerechten-en-drinken/
-- Mensen: https://hans-blok.github.io/anneke-21-diner/organisatie/mensen/
-- Tijd & Locatie: https://hans-blok.github.io/anneke-21-diner/organisatie/tijd-locatie/
+Bouwt automatisch beide sites (`site/` en `site-org/`) vóór de push.

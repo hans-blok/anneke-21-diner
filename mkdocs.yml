@@ -14,7 +14,7 @@ site_url: "https://hans-blok.github.io/anneke-21-diner/"
 # ------------------------------------------------------------
 # 2. Documentatie Bron
 # ------------------------------------------------------------
-docs_dir: "docs"
+docs_dir: "docs/gasten"
 site_dir: "site"
 
 # ------------------------------------------------------------
@@ -43,7 +43,7 @@ theme:
   font:
     text: "Inter"
     code: "JetBrains Mono"
-  favicon: "assets/foto-scandanavian.jpg"
+  favicon: "assets/foto-2.png"
 
 # ------------------------------------------------------------
 # 4. Custom Styling - 
