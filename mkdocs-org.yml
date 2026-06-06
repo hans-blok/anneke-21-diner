@@ -7,9 +7,10 @@
 site_name: "Organisatie — 21-diner Anneke"
 site_description: "Interne organisatiepagina's — niet voor gasten"
 site_author: "Familie Blok"
+site_url: "https://hans-blok.github.io/anneke-21-diner/org/"
 
 docs_dir: "docs/organisatie"
-site_dir: "site-org"
+site_dir: "site/org"
 
 theme:
   name: "material"

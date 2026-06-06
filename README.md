@@ -10,20 +10,28 @@
 
 ## Voor de organisatie
 
-Organisatiepagina's worden gebouwd naar `site-org/` via `mkdocs-org.yml`.  
-Live preview: `mkdocs serve -f mkdocs-org.yml --dev-addr 127.0.0.1:8001`
+**Live preview (lokaal):** http://127.0.0.1:8001/  
+**Publiek (GitHub Pages):** https://hans-blok.github.io/anneke-21-diner/org/
 
-| Pagina | Live preview (poort 8001) | Lokaal bestand |
-|---|---|---|
-| Overzicht | http://127.0.0.1:8001/ | site-org/index.html |
-| Mensen | http://127.0.0.1:8001/mensen/ | site-org/mensen/index.html |
-| Benodigdheden | http://127.0.0.1:8001/benodigdheden/ | site-org/benodigdheden/index.html |
-| Gerechten & Drinken | http://127.0.0.1:8001/drinken/ | site-org/drinken/index.html |
-| Bereiding: Borrelhapjes | http://127.0.0.1:8001/bereiding/0-borrelhapjes/ | site-org/bereiding/0-borrelhapjes/index.html |
-| Bereiding: Gyoza | http://127.0.0.1:8001/bereiding/1-gyoza-kokos-curry/ | site-org/bereiding/1-gyoza-kokos-curry/index.html |
-| Bereiding: Sgroppino | http://127.0.0.1:8001/bereiding/2-mango-sgroppino/ | site-org/bereiding/2-mango-sgroppino/index.html |
-| Bereiding: Aubergine | http://127.0.0.1:8001/bereiding/3-hoisin-aubergine%20met%20sojabonensalade/ | site-org/bereiding/3-hoisin-aubergine%20met%20sojabonensalade/index.html |
-| Bereiding: Trifle | http://127.0.0.1:8001/bereiding/4-trifle-white-wedding/ | site-org/bereiding/4-trifle-white-wedding/index.html |
+Organisatiepagina's worden gebouwd naar `site/org/` via `mkdocs-org.yml`.  
+Start de server met: `python -m mkdocs serve -f mkdocs-org.yml --dev-addr 127.0.0.1:8001`
+
+| Pagina | URL |
+|---|---|
+| Overzicht | http://127.0.0.1:8001/ |
+| Mensen | http://127.0.0.1:8001/mensen/ |
+| Benodigdheden | http://127.0.0.1:8001/benodigdheden/ |
+| Drank | http://127.0.0.1:8001/drinken/ |
+| Boodschappen | http://127.0.0.1:8001/boodschappen/ |
+| Boodschappen: ver van tevoren | http://127.0.0.1:8001/boodschappen/0-ver-van-tevoren/ |
+| Boodschappen: drank (22 juni) | http://127.0.0.1:8001/boodschappen/drank/ |
+| Boodschappen: 26 juni | http://127.0.0.1:8001/boodschappen/2-26-juni/ |
+| Boodschappen: 27 juni | http://127.0.0.1:8001/boodschappen/3-27-juni/ |
+| Bereiding: Borrelhapjes | http://127.0.0.1:8001/bereiding/0-borrelhapjes/ |
+| Bereiding: Gyoza | http://127.0.0.1:8001/bereiding/1-gyoza-kokos-curry/ |
+| Bereiding: Sgroppino | http://127.0.0.1:8001/bereiding/2-mango-sgroppino/ |
+| Bereiding: Aubergine | http://127.0.0.1:8001/bereiding/3-hoisin-aubergine%20met%20sojabonensalade/ |
+| Bereiding: Trifle | http://127.0.0.1:8001/bereiding/4-trifle-white-wedding/ |
 
 ## Lokaal draaien
 
@@ -44,4 +52,4 @@ mkdocs build -f mkdocs-org.yml
 push.bat "commit message"
 ```
 
-Bouwt automatisch beide sites (`site/` en `site-org/`) vóór de push.
+Bouwt automatisch beide sites (`site/` en `site/org/`) vóór de push.
