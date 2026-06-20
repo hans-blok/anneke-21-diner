@@ -9,9 +9,9 @@
   --linen:       #C4C0B7;   /* kaart achtergrond / even tabelrijen */
   --fog:         #C4C0B7;   /* hover, subtiele vlakken */
   --pebble:      #C9C5BD;   /* randen */
-  --stone:       #75777A;   /* secundaire tekst */
+  --stone:       #3a3a3a;   /* secundaire tekst */
   --slate:       #222222;   /* body tekst */
-  --charcoal:    #75777A;   /* header, donkere vlakken */
+  --charcoal:    #3a3a3a;   /* header, donkere vlakken */
   --sage:        #BECACA;   /* primaire accentkleur */
   --sage-light:  #C9C5BD;   /* hover, lichte accenten */
   --nordic:      #BECACA;   /* links, secundaire accent */

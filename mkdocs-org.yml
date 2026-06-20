@@ -88,9 +88,10 @@ nav:
   - Boodschappen:
     - Overzicht: boodschappen.md
     - Ver van tevoren: boodschappen/0-ver-van-tevoren.md
-    - Drank (week 22 juni): boodschappen/drank.md
+    - Drank: boodschappen/drank.md
     - Vrijdag 26 juni: boodschappen/2-26-juni.md
     - Zaterdag 27 juni: boodschappen/3-27-juni.md
+  - Printshop: printshop/index.md
   - Bereidingen:
     - Borrelhapjes: bereiding/0-borrelhapjes.md
     - Gyoza Kokos-Curry: bereiding/1-gyoza-kokos-curry.md
