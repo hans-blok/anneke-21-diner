@@ -92,6 +92,10 @@ nav:
     - Vrijdag 26 juni: boodschappen/2-26-juni.md
     - Zaterdag 27 juni: boodschappen/3-27-juni.md
   - Printshop: printshop/index.md
+  - Draaiboek:
+    - Schema: draaiboek/schema.md
+    - Draaiboek: draaiboek/draaiboek.md
+    - Keukenplanning: draaiboek/planning-keuken.md
   - Bereidingen:
     - Borrelhapjes: bereiding/0-borrelhapjes.md
     - Gyoza Kokos-Curry: bereiding/1-gyoza-kokos-curry.md
