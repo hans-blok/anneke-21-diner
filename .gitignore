@@ -253,3 +253,8 @@ htmlcov/
 # Lock files (optioneel - uncommit indien gewenst)
 # poetry.lock
 # Pipfile.lock
+
+# ===================================
+# Grote bestanden (te groot voor GitHub)
+# ===================================
+docs/printshop/Naamkaartjes.pdf
