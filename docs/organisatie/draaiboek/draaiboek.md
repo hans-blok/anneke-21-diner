@@ -68,9 +68,9 @@
 | Tijd | Wie | Activiteit |
 |---|---|---|
 | 17:00 | Leanne | Gyoza's bakken in batches → warm houden in oven |
-| 17:55 | Anneke | Lente-ui snijden; borden klaarzetten met currysaus |
+| 17:55 | Anna | Lente-ui snijden; borden klaarzetten met currysaus |
 | 18:00 | Hans + Leanne | ⬛ **VOORGERECHT UITSERVEREN** — gyoza met currysaus |
-| 18:00 | Anneke | Sgroppino-glazen in de vriezer zetten |
+| 18:00 | Anna | Sgroppino-glazen in de vriezer zetten |
 
 ### Tussengerecht
 
@@ -88,7 +88,7 @@
 |---|---|---|
 | 18:45 | Leanne | Rijst opzetten |
 | 19:00 | Leanne | Aubergine bakken (2 batches) |
-| 19:00 | Anneke | Salade opmaken *(parallel met aubergine)* |
+| 19:00 | Arvid | Salade opmaken *(parallel met aubergine)* |
 | 19:25 | Leanne + Arvid | Borden opmaken: rijst + aubergine + salade + garnering |
 | 19:30 | Hans + Leanne + Anna | ⬛ **HOOFDGERECHT UITSERVEREN** — hoisin-aubergine met sojabonensalade |
 
