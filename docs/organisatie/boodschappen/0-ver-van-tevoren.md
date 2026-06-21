@@ -1,4 +1,4 @@
-﻿# Boodschappen — ver van tevoren
+# Boodschappen — ver van tevoren
 
 *Online bestellen of bij de supermarkt — minimaal 2 weken voor het feest*
 
@@ -15,18 +15,20 @@
 | ☐ | Gefrituurde uitjes | royaal (1–2 zakken) | Gyoza |
 | ☐ | Gomasio | 10 zakjes | Hoisin aubergine |
 | ☐ | Witte langgraanrijst | 1,5 kg | Hoisin aubergine |
-| ☐ | Bastognebiscuits | 600 g (ca. 2 rollen) | Trifle |
-| ☐ | Witte chocolade | 700 g (600 g crème + 100 g garnering) | Trifle |
+| ☐ | Bastognebiscuits | 750 g (ca. 3 rollen) | Trifle |
+| ☐ | Veganistische witte chocolade | 875 g (750 g crème + 125 g garnering) | Trifle |
+| ☐ | Kokosroom vol vet (blik 400 ml) | 5 blikken | Trifle |
 | ☐ | Ongezouten pinda's | 200 g | Hoisin aubergine |
-| ☐ | Suiker | 100 g | Trifle |
-| ☐ | Poedersuiker | 80 g (50 g crème + 30 g room) | Trifle |
-| ☐ | Vanille-extract | 1 tl | Trifle |
-| ☐ | Aioli (kant-en-klaar) | 1 pot | Borrelhapjes |
-| ☐ | Crispy oil (kant-en-klaar) | 1–2 flesjes | Borrelhapjes |
+| ☐ | Suiker | 125 g | Trifle |
+| ☐ | Poedersuiker | 100 g (60 g crème + 40 g room) | Trifle |
+| ☐ | Vanille-extract | 1,5 tl | Trifle |
+| ☐ | Aioli (kant-en-klaar) | 2 potten | Borrelhapjes |
 | ☐ | Honing [of plantaardig alternatief] | ca. 4 el | Hoisin aubergine |
 | ☐ | Wittewijnazijn | 20 tl | Hoisin aubergine |
 | ☐ | Zonnebloemolie | 600 ml | Hoisin aubergine |
 | ☐ | Zoutarme groentebouillon | 3,6 L | Hoisin aubergine |
+
+> **Let op:** Koel de kokosroomblikken minimaal 12 uur voor gebruik zodat het vaste deel scheidt. Leg ze alvast in de koelkast de avond voor de bereiding.
 
 ## ❄️ Supermarkt — diepvries
 
@@ -34,7 +36,7 @@
 |---|---|---|---|
 | ☐ | Kant-en-klare mangosorbet | 2 kg | Sgroppino |
 | ☐ | Sojabonen | 1 kg | Hoisin aubergine |
-| ☐ | Frambozen (voor compote) | 1 kg | Trifle |
+| ☐ | Frambozen (voor compote) | 1,25 kg | Trifle |
 
 ## 🌸 Online bestellen
 

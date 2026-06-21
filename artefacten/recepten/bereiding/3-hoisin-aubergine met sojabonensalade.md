@@ -52,7 +52,7 @@
 
 ---
 
-## Ingrediëntenoverzicht voor 20 personen
+## Ingrediëntenoverzicht voor 25 personen
 
 | Ingrediënt | Hoeveelheid |
 |---|---|

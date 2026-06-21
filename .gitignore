@@ -258,3 +258,4 @@ htmlcov/
 # Grote bestanden (te groot voor GitHub)
 # ===================================
 docs/printshop/Naamkaartjes.pdf
+docs/printshop/*.zip

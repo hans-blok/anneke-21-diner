@@ -1,86 +1,87 @@
 # Sous Chef-bereiding: Trifle White Wedding
 
-*Frambozen · Witte chocolade · Bastognebiscuit*
-*Voor 20 personen — geserveerd in individuele glazen of één grote trifle schaal*
+*Frambozen · Vegan witte chocolade · Bastognebiscuit*
+*Voor 25 personen — geserveerd in individuele glazen of één grote trifle schaal*
 
 ---
 
 ## Mise en place
 
-> De trifle wordt **volledig vooruit** opgebouwd en minimaal 2 uur gekoeld alvorens te serveren. De lagen worden in volgorde opgebouwd: biscuit → frambozencompote → witte chocoladecrème → slagroom → garnering. Werk gekoeld en efficiënt.
+> De trifle wordt **volledig vooruit** opgebouwd en minimaal 2 uur gekoeld alvorens te serveren. De lagen worden in volgorde opgebouwd: biscuit → frambozencompote → witte chocoladecrème → kokosslagroom → garnering. Werk gekoeld en efficiënt. **Koel de kokosroomblikken minimaal 12 uur van tevoren** zodat het vaste deel goed scheidt.
 
 ---
 
-## Stap 1 — Witte chocoladecrème (dag van tevoren of ochtend)
+## Stap 1 — Vegan witte chocoladecrème (dag van tevoren of ochtend)
 
-1. Smelt de witte chocolade (600 g) au bain-marie: breek in stukken, zet in een hittebestendige kom boven een pan met zacht kokend water. Roer tot volledig gesmolten en glad. Haal van het vuur en laat iets afkoelen (ca. 5 min).
-2. Klop de roomkaas (1 kg, op kamertemperatuur) los in een grote mengkom.
-3. Voeg de gesmolten witte chocolade al roerend toe aan de roomkaas en meng tot een gladde, homogene massa.
-4. Voeg de poedersuiker (50 g) toe en meng kort door. Proef en pas aan.
-5. Dek af en zet in de koelkast tot gebruik.
+1. Smelt de veganistische witte chocolade (750 g) au bain-marie: breek in stukken, zet in een hittebestendige kom boven een pan met zacht kokend water. Roer tot volledig gesmolten en glad. Haal van het vuur en laat iets afkoelen (ca. 5 min).
+2. Haal de gekoelde kokosroomblikken (5 blikken vol vet, 400 ml) uit de koelkast. Open voorzichtig en schep het vaste deel in een grote mengkom — giet het vloeibare deel weg of bewaar voor een ander gebruik.
+3. Klop het vaste kokosroom los met een mixer tot romig.
+4. Voeg de gesmolten witte chocolade al roerend toe en meng tot een gladde, homogene massa.
+5. Voeg de poedersuiker (60 g) toe en meng kort door. Proef en pas aan.
+6. Dek af en zet in de koelkast tot gebruik.
 
 ---
 
 ## Stap 2 — Frambozencompote (kan vooruit)
 
-6. Doe de frambozen (1 kg, diepvries) in een steelpan met de suiker (100 g) en het citroensap (2 el).
-7. Verwarm op middelhoog vuur, roerend, tot de frambozen volledig uiteenvallen en de compote iets indikt — ca. 8–10 minuten.
-8. Laat volledig afkoelen. Zet koud in de koelkast.
+7. Doe de frambozen (1,25 kg, diepvries) in een steelpan met de suiker (125 g) en het citroensap (3 el).
+8. Verwarm op middelhoog vuur, roerend, tot de frambozen volledig uiteenvallen en de compote iets indikt — ca. 8–10 minuten.
+9. Laat volledig afkoelen. Zet koud in de koelkast.
 
 ---
 
-## Stap 3 — Slagroom (vlak voor opbouw)
+## Stap 3 — Kokosslagroom (vlak voor opbouw)
 
-9. Klop de slagroom (1 L, gekoeld) stijf met de poedersuiker (30 g) en de vanille-extract (1 tl). Stop zodra de room stevig is — niet te lang kloppen.
-10. Zet direct terug in de koelkast.
+10. Klop de plantaardige slagroom (1,25 L, gekoeld) stijf met de poedersuiker (40 g) en de vanille-extract (1,5 tl). Stop zodra de room stevig is — niet te lang kloppen.
+11. Zet direct terug in de koelkast.
 
 ---
 
 ## Stap 4 — Opbouw trifle (2–4 uur voor service)
 
-> Werk in individuele glazen (tumbler of wijn­glas, ca. 300 ml) of in één grote schaal. Onderstaande volgorde geldt per laag.
+> Werk in individuele glazen (tumbler of wijnglas, ca. 300 ml) of in één grote schaal. Onderstaande volgorde geldt per laag.
 
-11. Verkruimel de bastognebiscuits (600 g) grof — niet te fijn, zodat er crunch overblijft.
-12. **Laag 1 — biscuit:** verdeel de bastognekruimels over de bodem van de glazen (ca. 2 el per glas).
-13. **Laag 2 — compote:** schep een royale lepel frambozencompote (ca. 2 el per glas) over de biscuit.
-14. **Laag 3 — chocoladecrème:** schep of spuit de witte chocoladecrème (ca. 3–4 el per glas) over de compote en strijk glad.
-15. **Laag 4 — slagroom:** schep of spuit de slagroom (ca. 2–3 el per glas) bovenop de crème.
-16. Herhaal de lagen als het glas groot genoeg is (biscuit → compote → crème → room).
-17. Dek de glazen af met folie en zet minimaal **2 uur** in de koelkast.
+12. Verkruimel de bastognebiscuits (750 g) grof — niet te fijn, zodat er crunch overblijft.
+13. **Laag 1 — biscuit:** verdeel de bastognekruimels over de bodem van de glazen (ca. 2 el per glas).
+14. **Laag 2 — compote:** schep een royale lepel frambozencompote (ca. 2 el per glas) over de biscuit.
+15. **Laag 3 — chocoladecrème:** schep of spuit de vegan witte chocoladecrème (ca. 3–4 el per glas) over de compote en strijk glad.
+16. **Laag 4 — kokosslagroom:** schep of spuit de kokosslagroom (ca. 2–3 el per glas) bovenop de crème.
+17. Herhaal de lagen als het glas groot genoeg is (biscuit → compote → crème → room).
+18. Dek de glazen af met folie en zet minimaal **2 uur** in de koelkast.
 
 ---
 
 ## Stap 5 — Garnering (vlak voor service)
 
-18. Leg op ieder glas 3–5 ontdooide frambozen (200 g totaal, diepvries).
-19. Rasp witte chocolade (100 g) fijn over de slagroom met een dunschiller of rasp.
-20. Voeg optioneel een klein stukje bastognebiscuit rechtop in de room als decoratie.
+19. Leg op ieder glas 3–5 ontdooide frambozen (250 g totaal, diepvries).
+20. Rasp veganistische witte chocolade (125 g) fijn over de kokosslagroom met een dunschiller of rasp.
+21. Voeg optioneel een klein stukje bastognebiscuit rechtop in de room als decoratie.
 
 ---
 
-## Ingrediëntenoverzicht voor 20 personen
+## Ingrediëntenoverzicht voor 25 personen
 
 | Ingrediënt | Hoeveelheid |
 |---|---|
-| Bastognebiscuits | 600 g (ca. 2 rollen) |
-| Frambozen (compote) | 1 kg (diepvries) |
-| Frambozen (garnering) | 200 g (diepvries) |
-| Suiker (voor compote) | 100 g |
-| Citroensap | 2 el |
-| Witte chocolade (crème) | 600 g |
-| Witte chocolade (garnering) | 100 g |
-| Roomkaas (naturel, vol) | 1 kg |
-| Poedersuiker (crème) | 50 g |
-| Slagroom | 1 L |
-| Poedersuiker (slagroom) | 30 g |
-| Vanille-extract | 1 tl |
+| Bastognebiscuits | 750 g (ca. 3 rollen) |
+| Frambozen (compote) | 1,25 kg (diepvries) |
+| Frambozen (garnering) | 250 g (diepvries) |
+| Suiker (voor compote) | 125 g |
+| Citroensap | 3 el |
+| Veganistische witte chocolade (crème) | 750 g |
+| Veganistische witte chocolade (garnering) | 125 g |
+| Kokosroom vol vet (blik 400 ml) | 5 blikken — vaste deel gebruiken |
+| Poedersuiker (crème) | 60 g |
+| Plantaardige slagroom (kokos/soja) | 1,25 L |
+| Poedersuiker (slagroom) | 40 g |
+| Vanille-extract | 1,5 tl |
 
 ---
 
 ## Tips
 
-> **Structuur bewaken** — de bastognebiscuit wordt zachter naarmate de trifle langer staat. Minimaal 2 uur koelen is nodig; langer dan 6 uur geeft een te slappe bodem. Bouw de trifle niet eerder dan de ochtend van het feest op.
+> **Kokosroom van tevoren koelen** — zet de blikken minimaal 12 uur (bij voorkeur een nacht) in de koelkast zodat het vaste deel goed scheidt van het vocht.
 
-> **Veganistische variant** — vervang roomkaas door gekoelde kokosroom (vaste deel van een blik), slagroom door kokosslagroom, en chocolade door een veganistische witte chocolade.
+> **Structuur bewaken** — de bastognebiscuit wordt zachter naarmate de trifle langer staat. Minimaal 2 uur koelen is nodig; langer dan 6 uur geeft een te slappe bodem. Bouw de trifle niet eerder dan de ochtend van het feest op.
 
 > **Uitserveren** — haal de glazen 10 minuten voor service uit de koelkast. Te koud geeft een te strakke crème.
