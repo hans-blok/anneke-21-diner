@@ -1,4 +1,5 @@
 # Anneke 21 Feest
+versie 24 juni
 
 ## Voor gasten
 
@@ -29,9 +30,3 @@ mkdocs serve -f mkdocs-org.yml --dev-addr 127.0.0.1:8001
 mkdocs build -f mkdocs-org.yml
 ```
 
-## Deployen
-
-
-```
-
-Bouwt automatisch beide sites (`site/` en `site/org/`) vóór de push.
