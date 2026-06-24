@@ -6,7 +6,7 @@
 ---
 
 - **De Crunch:** Bastogne koeken, grof verkruimeld.
-- **De Vulling:** Vegan roomkaas gemengd met gesmolten witte vegan chocolade en opgeklopte vegan slagroom.
+- **De Vulling:** Opgeklopte vegan slagroom gecombineerd met gesmolten witte vegan chocolade.
 - **Het Fruit:** Een gladde coulis van verse frambozen (gezeefd voor een chique look) en een paar hele frambozen bovenop.
 
 ---
@@ -19,11 +19,10 @@
 
 ## Stap 1 — Vegan witte chocoladecrème (dag van tevoren of ochtend)
 
-1. Smelt de veganistische witte chocolade (750 g) au bain-marie: breek in stukken, zet in een hittebestendige kom boven een pan met zacht kokend water. Roer tot volledig gesmolten en glad. Haal van het vuur en laat iets afkoelen (ca. 5 min).
-2. Doe de vegan roomkaas (750 g) in een grote mengkom en klop los met een mixer tot romig en luchtig.
-3. Voeg de gesmolten witte chocolade al roerend toe en meng tot een gladde, homogene massa.
-4. Voeg de poedersuiker (60 g) toe en meng kort door. Proef en pas aan.
-5. Dek af en zet in de koelkast tot gebruik.
+1. Smelt de veganistische witte chocolade (750 g) au bain-marie: breek in stukken, zet in een hittebestendige kom boven een pan met zacht kokend water. Roer tot volledig gesmolten en glad. Haal van het vuur en laat iets afkoelen (ca. 10 min) — de chocolade moet lauwwarm zijn voor je hem door de slagroom spatelt.
+2. Klop 700 ml plantaardige slagroom stijf. Stop zodra de room stevig is — niet te lang kloppen.
+3. Spatel de afgekoelde gesmolten chocolade voorzichtig in delen door de slagroom tot een gladde, luchtige chocolademousse.
+4. Dek af en zet in de koelkast tot gebruik.
 
 ---
 
@@ -37,7 +36,7 @@
 
 ## Stap 3 — Vegan slagroom (vlak voor opbouw)
 
-10. Klop de plantaardige slagroom (1,25 L, gekoeld) stijf met de poedersuiker (40 g) en de vanille-extract (1,5 tl). Stop zodra de room stevig is — niet te lang kloppen.
+10. Klop de resterende plantaardige slagroom (300 ml, gekoeld) stijf met het vanille-extract (1,5 tl). Stop zodra de room stevig is — niet te lang kloppen.
 11. Zet direct terug in de koelkast.
 
 ---
@@ -60,7 +59,7 @@
 
 19. Leg op ieder glas 3–5 ontdooide frambozen (250 g totaal, diepvries).
 20. Rasp veganistische witte chocolade (125 g) fijn over de slagroom met een dunschiller of rasp.
-21. Voeg optioneel een klein stukje bastognebiscuit rechtop in de room als decoratie.
+21. Leg 1 vers muntblaadje per glas als garnering.
 
 ---
 
@@ -75,11 +74,9 @@
 | Citroensap | 3 el |
 | Veganistische witte chocolade (crème) | 750 g |
 | Veganistische witte chocolade (garnering) | 125 g |
-| Vegan roomkaas | 750 g |
-| Poedersuiker (crème) | 60 g |
-| Plantaardige slagroom | 1,25 L |
-| Poedersuiker (slagroom) | 40 g |
+| Plantaardige slagroom (opklopbaar) | 1 L |
 | Vanille-extract | 1,5 tl |
+| Verse munt | 1 bakje (ca. 25 blaadjes) |
 
 ---
 

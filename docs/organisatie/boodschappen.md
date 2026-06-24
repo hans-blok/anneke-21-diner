@@ -22,7 +22,7 @@
 | Frambozen (garnering) | 250 g (vers) | Trifle |
 | Verse koriander | 100 g | Hoisin aubergine |
 | Verse koriander / chilivlokken | naar smaak | Gyoza |
-| Verse munt | 1 bosje | Sgroppino |
+| Verse munt | 2 bosjes | Sgroppino + Trifle (garnering) |
 | Verse basilicum of tijm | naar smaak | Borrelhapjes |
 
 ---
@@ -33,8 +33,7 @@
 |---|---|---|
 | [Plantaardige] roomboter | ca. 50 g | Hoisin aubergine |
 | [Plantaardige] mayonaise | 20 tl (≈ 7 el) | Hoisin aubergine |
-| Vegan roomkaas | 750 g | Trifle |
-| Slagroom | 1,25 L | Trifle |
+| Plantaardige slagroom (opklopbaar) | 1 L | Trifle |
 
 ---
 
@@ -60,8 +59,6 @@
 | Gefrituurde uitjes | royaal | Gyoza |
 | Gomasio | 10 zakjes | Hoisin aubergine |
 | Suiker | 125 g | Trifle |
-| Poedersuiker (crème) | 60 g | Trifle |
-| Poedersuiker (slagroom) | 40 g | Trifle |
 | Vanille-extract | 1,5 tl | Trifle |
 
 ---
