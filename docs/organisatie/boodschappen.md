@@ -33,7 +33,7 @@
 |---|---|---|
 | [Plantaardige] roomboter | ca. 50 g | Hoisin aubergine |
 | [Plantaardige] mayonaise | 20 tl (≈ 7 el) | Hoisin aubergine |
-| Plantaardige slagroom (opklopbaar) | 1 L | Trifle |
+| Plantaardige slagroom (opklopbaar) | 2 L | Trifle |
 
 ---
 

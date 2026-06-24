@@ -20,7 +20,7 @@
 ## Stap 1 — Vegan witte chocoladecrème (dag van tevoren of ochtend)
 
 1. Smelt de veganistische witte chocolade (750 g) au bain-marie: breek in stukken, zet in een hittebestendige kom boven een pan met zacht kokend water. Roer tot volledig gesmolten en glad. Haal van het vuur en laat iets afkoelen (ca. 10 min) — de chocolade moet lauwwarm zijn voor je hem door de slagroom spatelt.
-2. Klop 700 ml plantaardige slagroom stijf. Stop zodra de room stevig is — niet te lang kloppen.
+2. Klop 1,4 L plantaardige slagroom stijf. Stop zodra de room stevig is — niet te lang kloppen.
 3. Spatel de afgekoelde gesmolten chocolade voorzichtig in delen door de slagroom tot een gladde, luchtige chocolademousse.
 4. Dek af en zet in de koelkast tot gebruik.
 
@@ -36,14 +36,14 @@
 
 ## Stap 3 — Vegan slagroom (vlak voor opbouw)
 
-10. Klop de resterende plantaardige slagroom (300 ml, gekoeld) stijf met het vanille-extract (1,5 tl). Stop zodra de room stevig is — niet te lang kloppen.
+10. Klop de resterende plantaardige slagroom (600 ml, gekoeld) stijf met het vanille-extract (1,5 tl). Stop zodra de room stevig is — niet te lang kloppen.
 11. Zet direct terug in de koelkast.
 
 ---
 
 ## Stap 4 — Opbouw trifle (2–4 uur voor service)
 
-> Werk in individuele glazen (tumbler of wijnglas, ca. 300 ml) of in één grote schaal. Onderstaande volgorde geldt per laag.
+> Werk in individuele glazen (tumbler of wijnglas, ca. 600 ml) of in één grote schaal. Onderstaande volgorde geldt per laag.
 
 12. Verkruimel de bastognebiscuits (750 g) grof — niet te fijn, zodat er crunch overblijft.
 13. **Laag 1 — biscuit:** verdeel de bastognekruimels over de bodem van de glazen (ca. 2 el per glas).
@@ -74,7 +74,7 @@
 | Citroensap | 3 el |
 | Veganistische witte chocolade (crème) | 750 g |
 | Veganistische witte chocolade (garnering) | 125 g |
-| Plantaardige slagroom (opklopbaar) | 1 L |
+| Plantaardige slagroom (opklopbaar) | 2 L |
 | Vanille-extract | 1,5 tl |
 | Verse munt | 1 bakje (ca. 25 blaadjes) |
 
