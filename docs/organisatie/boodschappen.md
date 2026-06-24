@@ -18,8 +18,8 @@
 | Verse gember | 10 cm (ca. 80 g) | Gyoza |
 | Knoflook | 10 teentjes | Gyoza + Hoisin aubergine |
 | Limoen | 3–4 stuks | Gyoza |
-| Frambozen (compote) | 1 kg (diepvries of vers) | Trifle |
-| Frambozen (garnering) | 200 g (vers) | Trifle |
+| Frambozen (compote) | 1,25 kg (diepvries of vers) | Trifle |
+| Frambozen (garnering) | 250 g (vers) | Trifle |
 | Verse koriander | 100 g | Hoisin aubergine |
 | Verse koriander / chilivlokken | naar smaak | Gyoza |
 | Verse munt | 1 bosje | Sgroppino |
@@ -33,8 +33,8 @@
 |---|---|---|
 | [Plantaardige] roomboter | ca. 50 g | Hoisin aubergine |
 | [Plantaardige] mayonaise | 20 tl (≈ 7 el) | Hoisin aubergine |
-| Roomkaas (naturel, vol) | 1 kg | Trifle |
-| Slagroom | 1 L | Trifle |
+| Vegan roomkaas | 750 g | Trifle |
+| Slagroom | 1,25 L | Trifle |
 
 ---
 
@@ -53,16 +53,16 @@
 | Ingrediënt | Hoeveelheid | Gerecht |
 |---|---|---|
 | Witte langgraanrijst | 1,5 kg | Hoisin aubergine |
-| Bastognebiscuits | 600 g (ca. 2 rollen) | Trifle |
-| Witte chocolade (crème) | 600 g | Trifle |
-| Witte chocolade (garnering) | 100 g | Trifle |
+| Bastognebiscuits | 750 g (ca. 3 rollen) | Trifle |
+| Witte chocolade (crème) | 750 g | Trifle |
+| Witte chocolade (garnering) | 125 g | Trifle |
 | Ongezouten pinda's | 200 g | Hoisin aubergine |
 | Gefrituurde uitjes | royaal | Gyoza |
 | Gomasio | 10 zakjes | Hoisin aubergine |
-| Suiker | 100 g | Trifle |
-| Poedersuiker (crème) | 50 g | Trifle |
-| Poedersuiker (slagroom) | 30 g | Trifle |
-| Vanille-extract | 1 tl | Trifle |
+| Suiker | 125 g | Trifle |
+| Poedersuiker (crème) | 60 g | Trifle |
+| Poedersuiker (slagroom) | 40 g | Trifle |
+| Vanille-extract | 1,5 tl | Trifle |
 
 ---
 
