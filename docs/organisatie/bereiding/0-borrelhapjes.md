@@ -40,3 +40,5 @@
 ## Tips
 
 > **Brood niet te vroeg snijden** — gesneden brood droogt snel uit. Snijd of scheur maximaal 30 minuten voor service.
+
+

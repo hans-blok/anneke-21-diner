@@ -32,3 +32,18 @@
 | ☐ | Eetbare bloemetjes | 1 bakje (ca. 40 stuks) | Sgroppino |
 
 > Eetbare bloemetjes zijn verkrijgbaar bij tuincentra, reformwinkels of online (bijv. Eetbare Bloemen NL). Bewaar gekoeld tot gebruik.
+
+1 komkommer 
+1 bosje Bosui
+500 gram geraspte wortel
+5 Avocado's 2 limoenen
+2 Mango's
+1 zakje geraspte rauwe rode kool
+1 bakje Verse munt
+1 bakje Verse koriander
+3 pakjes Mitsuba crackers (bijv. de Seaweed of Wasabi variant van AH)
+1 flesje Sesamolie
+1 fles sojasaus
+2 zakken Plantaardige cassavekroepoek
+3 bakjes mini komkommers, 1 potje sesamzaadjes
+1 potje furikake-kruiden dit is aangepaste benodigdheden borrelhapjes!

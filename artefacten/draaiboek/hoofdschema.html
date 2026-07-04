@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13pt;
+    line-height: 1.45;
+    color: #1a1a1a;
+  }
+
+  .pagina {
+    width: 210mm;
+    padding: 14mm 16mm 14mm 16mm;
+  }
+
+  h1 {
+    font-size: 20pt;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    margin-bottom: 10mm;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 3mm;
+  }
+
+  h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #444;
+    margin-top: 7mm;
+    margin-bottom: 3mm;
+  }
+
+  section {
+    margin-bottom: 7mm;
+    page-break-inside: avoid;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12pt;
+  }
+
+  th {
+    background: #1a1a1a;
+    color: #fff;
+    font-weight: 600;
+    padding: 3mm 4mm;
+    text-align: left;
+    font-size: 11pt;
+    letter-spacing: 0.03em;
+  }
+
+  th.r { text-align: right; }
+
+  td {
+    padding: 2.5mm 4mm;
+    vertical-align: top;
+    border-bottom: 1px solid #ddd;
+  }
+
+  td.r { text-align: right; font-variant-numeric: tabular-nums; }
+
+  tr:nth-child(even) td { background: #f5f5f5; }
+
+  .tijd {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .gang { font-weight: 600; }
+
+  .deadline { font-weight: 700; white-space: nowrap; }
+
+  .gevolg { color: #555; font-size: 11pt; }
+
+  @media print {
+    @page { size: A4 portrait; margin: 0; }
+    body { width: 210mm; }
+  }
+</style>
+</head>
+<body>
+<div class="pagina">
+
+  <h1>Schema — Feestmenu zaterdag 27 juni</h1>
+
+  <section>
+    <h2>Tijdlijn</h2>
+    <table>
+      <thead>
+        <tr>
+          <th class="r" style="width:14mm">Tijd</th>
+          <th style="width:36mm">Gang</th>
+          <th>Gerecht</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="r tijd">17:00</td><td class="gang">Welkomstborrel</td><td>Borrelhapjes — vers brood &amp; aioli</td></tr>
+        <tr><td class="r tijd">17:30</td><td class="gang">Voorgerecht</td><td>Groente gyoza in romige kokos-currysaus</td></tr>
+        <tr><td class="r tijd">18:00</td><td class="gang">Tussengerecht</td><td>Mango sgroppino met prosecco &amp; munt</td></tr>
+        <tr><td class="r tijd">19:00</td><td class="gang">Hoofdgerecht</td><td>Hoisin-aubergine met gomasio-sojabonensalade</td></tr>
+        <tr><td class="r tijd">20:30</td><td class="gang">Nagerecht</td><td>Trifle White Wedding</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Voorbereiding per gang</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:32mm">Gang</th>
+          <th>Voorbereiding start</th>
+          <th style="width:52mm">Laatste bereiding</th>
+          <th class="r" style="width:18mm">Serve</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="gang">Welkomstborrel</td>
+          <td>16:45 brood snijden</td>
+          <td>16:55 aioli in schaaltjes</td>
+          <td class="r tijd">17:00</td>
+        </tr>
+        <tr>
+          <td class="gang">Voorgerecht</td>
+          <td>16:00 currysaus &nbsp;·&nbsp; 17:05 gyoza bakken</td>
+          <td>17:25 gyoza's warm in oven</td>
+          <td class="r tijd">17:30</td>
+        </tr>
+        <tr>
+          <td class="gang">Tussengerecht</td>
+          <td>17:30 glazen in vriezer &nbsp;·&nbsp; 17:45 sorbet uit vriezer</td>
+          <td>17:55 sgroppino opmaken</td>
+          <td class="r tijd">18:00</td>
+        </tr>
+        <tr>
+          <td class="gang">Hoofdgerecht</td>
+          <td>14:00 mise-en-place &nbsp;·&nbsp; 18:15 rijst opzetten</td>
+          <td>18:55 borden opmaken</td>
+          <td class="r tijd">19:00</td>
+        </tr>
+        <tr>
+          <td class="gang">Nagerecht</td>
+          <td>Vr. avond kokosroom koud &nbsp;·&nbsp; Za. 10:00 crème &amp; compote &nbsp;·&nbsp; 15:00 opbouw trifle</td>
+          <td>20:20 garnering + 10 min uit koelkast</td>
+          <td class="r tijd">20:30</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Apparatuur</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:52mm">Apparaat</th>
+          <th>Gebruik</th>
+          <th style="width:30mm">Wanneer</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Oven 80 °C</td><td>Warm houden: gyoza's, aubergine batch 1, rijst</td><td>17:05 – 19:00</td></tr>
+        <tr><td>Grote kookpot (5+ L)</td><td>Rijst koken (1,5 kg + 3,6 L bouillon)</td><td>18:15 – 19:00</td></tr>
+        <tr><td>Hapjespan / wok</td><td>Gyoza's bakken; aubergine bakken (batches)</td><td>17:05 / 18:30</td></tr>
+        <tr><td>Sauspan (middel)</td><td>Kokos-currysaus / frambozencompote</td><td>10:00 / 16:00</td></tr>
+        <tr><td>Au bain-marie</td><td>Witte chocolade smelten</td><td>10:00</td></tr>
+        <tr><td>Mixer / handmixer</td><td>Kokosslagroom kloppen; chocoladecrème maken</td><td>10:00 / 14:45</td></tr>
+        <tr><td>Vriezer</td><td>Mangosorbet; sgroppino-glazen koelen (30 min)</td><td>Doorlopend / 17:30</td></tr>
+        <tr><td>Koelkast</td><td>Trifle (min. 2 u, max. 6 u); crème, compote, slagroom</td><td>Doorlopend</td></tr>
+        <tr><td>Grillpan (optioneel)</td><td>Brood roosteren</td><td>16:45</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Kritiek pad</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:38mm">Deadline</th>
+          <th>Taak</th>
+          <th style="width:58mm">Gevolg als gemist</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="deadline">Vr. 26/6 — avond</td><td>Kokosroomblikken (5×) in koelkast</td><td class="gevolg">Vaste room scheidt niet; crème mislukt</td></tr>
+        <tr><td class="deadline">Za. 10:00 – 11:00</td><td>Trifle chocoladecrème + compote maken</td><td class="gevolg">Te weinig afkoeltijd vóór opbouw</td></tr>
+        <tr><td class="deadline">Za. 15:00</td><td>Start opbouw trifle <em>(uiterlijk 16:30)</em></td><td class="gevolg">Minder dan 4 uur koeling → structuur onvoldoende</td></tr>
+        <tr><td class="deadline">Za. 16:00</td><td>Currysaus klaar, warm houden</td><td class="gevolg">Geen saus klaar bij voorgerecht</td></tr>
+        <tr><td class="deadline">Za. 17:05</td><td>Eerste gyoza-batch in de pan</td><td class="gevolg">Gyoza's niet op tijd klaar voor 17:30</td></tr>
+        <tr><td class="deadline">Za. 17:30</td><td>Sgroppino-glazen in vriezer</td><td class="gevolg">Glazen niet koud genoeg bij 18:00</td></tr>
+        <tr><td class="deadline">Za. 18:15</td><td>Rijst opzetten</td><td class="gevolg">Rijst niet gaar voor 19:00</td></tr>
+        <tr><td class="deadline">Za. 18:30</td><td>Start aubergine batch 1 + salade</td><td class="gevolg">Hoofdgerecht loopt uit</td></tr>
+        <tr><td class="deadline">Za. 20:20</td><td>Trifle-glazen uit koelkast + garnering</td><td class="gevolg">Te koud = te strakke crème</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+</div>
+</body>
+</html>
